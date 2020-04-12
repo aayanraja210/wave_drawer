@@ -1,0 +1,16 @@
+name: wave_drawer
+description: Wave Drawer is an easy way to create stunning app drawer.
+version: 0.0.1
+author: Aayan Raja <aayanraja210@gmail.com>
+homepage: https://github.com/aayanraja210/wave_drawer
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
