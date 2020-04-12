@@ -10,7 +10,7 @@ Wave Drawer is an easy way to create stunning app drawer with a bezier curve bou
 Add this to your package's pubspec.yaml file:
 ```dart
 dependencies:
-  wave_drawer: "^0.0.1"
+  wave_drawer: "^0.1.1"
 ```
 ## Demo
 <div align="center">
