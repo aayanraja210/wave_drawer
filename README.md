@@ -4,7 +4,7 @@
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/calamity210)
 
 
-Wave Drawer is an easy way to create stunning app drawer.
+Wave Drawer is an easy way to create stunning app drawer with a bezier curve boundary. Animated bezier curves are coming soon!
 
 ## Installing
 Add this to your package's pubspec.yaml file:
@@ -17,9 +17,6 @@ dependencies:
   <table><tr>
  <td style="text-align:center">
   <img width="250px"  src="https://github.com/aayanraja210/wave_drawer/raw/master/assets/img/example5.1.gif?" />
- </td>
- <td style="text-align:center">
-   <img width="250px"  src="https://github.com/aayanraja210/wave_drawer/raw/master/assets/img/example5.3.gif?" />
  </td>
  </tr></table>
 </div>
